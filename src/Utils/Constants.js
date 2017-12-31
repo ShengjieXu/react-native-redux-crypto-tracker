@@ -1,0 +1,1 @@
+export default apiBaseURL = 'https://api.coinmarketcap.com';
